@@ -1,0 +1,34 @@
+# Arquivos e diretórios gerados pelo Visual Studio
+.vscode/
+.vs/
+bin/
+obj/
+packages/
+*.userprefs
+*.suo
+*.user
+*.sln.iml
+
+# Artefatos de compilação
+*.apk
+*.apks
+*.aab
+*.appbundle
+*.ipa
+*.dll
+*.pdb
+
+# Arquivos temporários
+[Tt]emp/
+[Oo]bj/
+
+# Arquivos de log
+*.log
+
+# Pacotes NuGet
+packages/
+*.nupkg
+
+# Outros
+.DS_Store
+Thumbs.db
